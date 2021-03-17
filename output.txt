@@ -1,0 +1,10 @@
+The string "a=1" is in the language
+The string "a=a+b-c*d" is in the language
+The string "a=a//b++c" is not in the language
+The string "a=a+b-c**6" is not in the language
+The string "a=a+b-c**6" is not in the language
+The string "a=1" is in the language
+The string "a=a+b-c*d" is in the language
+The string "a=a//b++c" is not in the language
+The string "a=a+b-c**6" is not in the language
+The string "a=a+b-c**6" is not in the language
